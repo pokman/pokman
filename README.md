@@ -1,6 +1,6 @@
 *[Last updated: July 2021]*
 
-![]() [my TensorFlow Developer Certificate](https://www.credential.net/00b8f611-b2e9-4d65-9151-a5fd39d332ae)
+![](tensorflow_developer_badge.png) [my TensorFlow Developer Certificate](https://www.credential.net/00b8f611-b2e9-4d65-9151-a5fd39d332ae)
 
 I have recently started working on personal projects in machine / deep learning. This is an overview of the (currently very short list of) projects that I have done so far.
 
